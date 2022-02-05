@@ -1,0 +1,24 @@
+project1SP2021:
+total 436
+-rw-r--r--. 1 myid    216 Feb  7 13:36 intcommands.txt
+-rw-r--r--. 1 myid    481 Feb  7 15:22 makefile
+-rw-r--r--. 1 myid    743 Feb  7 15:36 outFile.txt
+-rw-r--r--. 1 myid    416 Feb  7 15:39 README.TXT
+-rw-r--r--. 1 myid    440 Feb  5 21:49 README.TXT~
+-rw-r--r--. 1 myid      0 Feb  8 15:24 rec32667
+-rw-r--r--. 1 myid   1249 Feb  5 22:28 rec3807
+-rw-r--r--. 1 myid    489 Feb  5 22:01 studcommands.txt
+-rw-r--r--. 1 myid    724 Feb  7 15:30 Student.cpp
+-rw-r--r--. 1 myid   1213 Feb  7 15:32 Student.h
+-rw-r--r--. 1 myid    950 Feb  7 13:32 Student.h~
+-rw-r--r--. 1 myid  79392 Feb  7 15:34 Student.o
+-rw-r--r--. 1 myid   3617 Feb  7 15:32 UnsortedList.cpp
+-rw-r--r--. 1 myid   3496 Feb  5 22:02 UnsortedList.cpp~
+-rwxr-xr-x. 1 myid 125328 Feb  7 15:36 UnsortedListDr
+-rw-r--r--. 1 myid   4131 Feb  7 15:36 UnsortedListDr.cpp
+-rw-r--r--. 1 myid   4512 Feb  7 13:31 UnsortedListDr.cpp~
+-rw-r--r--. 1 myid 131648 Feb  7 15:36 UnsortedListDr.o
+-rw-r--r--. 1 myid   2029 Feb  7 15:34 UnsortedList.h
+-rw-r--r--. 1 myid   2029 Feb  7 13:32 UnsortedList.h~
+-rw-r--r--. 1 myid  26632 Feb  7 15:34 UnsortedList.o
+/home/myid/dsc83098/cs2720/project1SP2021:/home/myid/csci-2720a

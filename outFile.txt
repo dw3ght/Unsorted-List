@@ -1,0 +1,14 @@
+list is empty
+list is not full
+List Items: Student's ID: 81012Student's Name: Eman 
+list is not empty
+List Items: Student's ID: 81012Student's Name: Eman Student's ID: 81121Student's Name: Prasanth 
+list is not full
+student at index 1 is 82385, Farzan
+length of list is 2
+List Items: Student's ID: 81012Student's Name: Eman Student's ID: 81001Student's Name: John Student's ID: 82887Student's Name: Thomas Student's ID: 81056Student's Name: Roger Student's ID: 81321Student's Name: Johnathan Student's ID: 82877Student's Name: Tom Student's ID: 81706Student's Name: Roman Student's ID: 81721Student's Name: Johnny Student's ID: 82817Student's Name: Zane Student's ID: 81709Student's Name: Rand 
+List Items: Student's ID: 81012Student's Name: Eman Student's ID: 81001Student's Name: John Student's ID: 82887Student's Name: Thomas Student's ID: 81056Student's Name: Roger Student's ID: 81321Student's Name: Johnathan Student's ID: 82877Student's Name: Tom Student's ID: 81706Student's Name: Roman Student's ID: 82817Student's Name: Zane Student's ID: 81709Student's Name: Rand 
+list is emptied
+list is empty
+length of list is 0
+List Items: 
